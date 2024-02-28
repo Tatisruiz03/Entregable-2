@@ -1,12 +1,15 @@
-
+<!--# Entregable-2
+LENGUAJE PROGRAMACIÓN PARA LA WEB - UCN "Tienda on-line de venta de ropa deportiva" - Opción Contactenos-->
+<!--Erika Ruíz Ocampo 
+José Gómez Acosta 
+Juan Rivera Mora
+Liceth Osorio Osorio -->
 
 /* Texto y Fonts */
 body {
   background:linear-gradient(0deg, rgba(32, 122, 153, 0.9), rgba(32, 122, 153, 0.9)), url("imagenes/basketball.jpg");
   background-size:cover;
     }
-
-
 
 h1,h2,h3,h4,h5,h6{font-family:"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0}
 
