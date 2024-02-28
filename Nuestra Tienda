@@ -1,0 +1,265 @@
+
+
+
+
+
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Nuestra Tienda On-Line</title>
+<link href="estilo.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	
+<!-- LOGO! -->
+	<center><img src="imagenes/Deportes-Estrella_Logo.png" style="width: 17%; margin: 30px 0px 15px 0px;"></center>
+	
+<!-- !NAV! -->
+<ul> 
+  <li><a class="nav-live" href="nuestra-tienda.html">Nuestra Tienda On-Line</a></li>
+  <li><a href="servicios.html">Servicios</a></li>
+  <li><a href="contactenos.html">Contáctenos</a></li>
+  <li><a href="solicitud-de-servicio.html">Solicitud de Servicio</a></li>
+  <li><a href="nuestro-cuento.html">Nuestro cuento</a></li>
+	</ul>
+
+<!-- Cuerpo -->
+<div class="doc-main doc-content doc-padding" style=";margin-top:40px;margin-left:6%;margin-right:6%;">
+	<div><h2 style="text-align:center; color:#fff;">Sobre Nosotros</h2></div>
+	
+    <p style="padding-bottom:20px; color:#F2F1F1">Deportes Estrella fue fundada en el corazón de la ciudad Medellín en el 2020, y nació de la pasión de un grupo de amigos por el deporte y la actividad física, quienes observando la creciente demanda de productos deportivos de calidad y la necesidad de una experiencia de compra más accesible y personalizada, decidieron lanzar su propia tienda. Con el sueño de fomentar un estilo de vida activo y saludable en su comunidad, Deportes Estrella se compromete a ofrecer una amplia gama de productos deportivos de alta calidad, desde indumentaria hasta equipos y accesorios para diversas disciplinas deportivas.
+
+	Con el paso de los años, Deportes Estrella ha crecido y evolucionado, adaptándose a las nuevas tendencias y tecnologías. La decisión de expandirse al mundo digital y abrir una tienda en línea es un paso natural en su evolución, permitiendo a Deportes Estrella alcanzar a una audiencia más amplia y ofrecer una experiencia de compra conveniente y segura para los entusiastas del deporte en cualquier lugar.</p>
+	</div>
+	
+ <!-- Equipo-->
+<div class="doc-row-padding doc-padding-16 doc-center">
+    <div class="doc-quarter">
+      <img class="foto-equipo" src="imagenes/Equipo/equipo-liceth-osorio.jpeg" alt="Liceth Osorio Osorio" style="width:90%;height:90%;">
+      <h3 class="foto-titulo">Liceth Osorio Osorio</h3>
+      <p>Desarollo de Software</p>
+    </div>
+	
+    <div class="doc-quarter">
+      <img class="foto-equipo" src="imagenes/Equipo/equipo-Juan.jpeg" alt="Juan Camilo Rivera Mora" style="width:90%">
+      <h3>Juan Camilo Rivera Mora</h3>
+      <p>Desarrollo de Software</p>
+    </div>
+	
+    <div class="doc-quarter">
+      <img class="foto-equipo" src="imagenes/Equipo/equipo-Tatiana.jpeg" alt="Erika Tatiana Ruiz Ocampo" style="width:90%">
+      <h3>Erika Tatiana Ruiz Ocampo</h3>
+		<p>Ingeniería Informática</p>
+    </div>
+	
+    <div class="doc-quarter">
+      <img class="foto-equipo" src="imagenes/Equipo/Equipo-José-Gómez.jpeg" alt="José Gómez Acosta" style="width:90%">
+      <h3>José Gómez Acosta</h3>
+      <p>Ingeniería Informática</p>
+    </div>	
+	
+	</div>
+	
+	
+	
+<!-- !Buttons! -->
+<div class="doc-main doc-content doc-padding" style="max-width:1400px;margin-top:40px;">
+	<div><center><button class="button-categorias"><a href="#guayos">Guayos</a></button><button class="button-categorias"><a href="#balones">Balones</a></button><button class="button-categorias"><a href="#camisetas">Camisetas</a></button><button class="button-categorias"><a href="#bolsos">Bolsos</a></button></center></div>
+
+  
+<!-- !IMAGENES FILA 1! - GUAYOS-->
+<div id="guayos" class="doc-main doc-content doc-padding categoria-tienda" style="max-width:1400px;margin-top:40px;">
+	<div><h2 style="text-align:center;">Guayos</h2></div>
+
+<!-- GUAYOS-->
+  <div class="doc-row-padding doc-padding-16 doc-center">
+	  
+<!-- GUAYOS #1-->	  
+    <div class="doc-quarter">
+      <img class="itemo" src="imagenes/Tienda/Nike Phantom GX Academy.webp" alt="Guayos - Nike Phantom GX Academy" style="width:100%;height:100%;">
+      <h4 class="foto-titulo">Nike Phantom GX Academy</h4>
+      <h5><strong style="color:#B37900;">Precio:</strong> 529.900</h5>
+		<center><button class="button-itemo"><a href="#">Mas Informacion</a></button></center>
+		<div style="padding:10px;"></div>
+    </div>
+	  
+<!-- GUAYOS #2-->
+    <div class="doc-quarter">
+      <img class="itemo" src="imagenes/Tienda/guayos-de-mujer-para-futbol-viralto-iii-mg-gris.avif" alt="Guayos - Kipsta - Viralto+ iii MG" style="width:100%;height:100%;">
+      <h4 class="foto-titulo">Kipsta - Viralto+ iii MG</h4>
+      <h5><strong style="color:#B37900;">Precio:</strong> 286.000</h5>
+		<center><button class="button-itemo"><a href="#">Mas Informacion</a></button></center>
+		<div style="padding:10px;"></div>
+    </div>
+<!-- GUAYOS #3-->
+    <div class="doc-quarter">
+      <img class="itemo" src="imagenes/Tienda/Guayos_X_Crazyfast" alt="Guayos - Adidas Guayos X Crazyfast" style="width:100%;height:100%;">
+      <h4 class="foto-titulo">Adidas Guayos X Crazyfast</h4>
+      <h5><strong style="color:#B37900;">Precio:</strong> 549.000</h5>
+		<center><button class="button-itemo"><a href="#">Mas Informacion</a></button></center>
+		<div style="padding:10px;"></div>
+    </div>
+<!-- GUAYOS #4-->
+    <div class="doc-quarter">
+      <img class="itemo" src="imagenes/Tienda/puma-guayos.webp/" alt="Guayos - Puma Rapido lll" style="width:100%;height:100%;">
+      <h4 class="foto-titulo">Puma Rapido lll</h4>
+      <h5><strong style="color:#B37900;">Precio:</strong> 310.000</h5>
+		<center><button class="button-itemo"><a href="#">Mas Informacion</a></button></center>
+		<div style="padding:10px;"></div>
+    </div>
+<!-- GUAYOS #4-TERMINO-->
+  </div>
+</div>
+	
+ <!-- !IMAGENES FILA 2! - BALONES-->
+
+<div id="balones" class="doc-main doc-content doc-padding categoria-tienda" style="max-width:1400px;margin-top:40px;">
+	<div><h2 style="text-align:center;">Balones</h2></div>
+
+<!-- BALONES-->
+  <div class="doc-row-padding doc-padding-16 doc-center">
+	  
+<!-- BALON #1-->	  
+    <div class="doc-quarter">
+      <img class="itemo" src="imagenes/Tienda/Nike-Phantom.png" alt="Balon - Nike Phantom" style="width:100%;height:300p;">
+      <h4 class="foto-titulo">Nike Phantom</h4>
+      <h5><strong style="color:#B37900;">Precio:</strong> 620.900</h5>
+		<center><button class="button-itemo"><a href="#">Mas Informacion</a></button></center>
+		<div style="padding:10px;"></div>
+    </div>
+	  
+<!-- BALON #2-->
+    <div class="doc-quarter">
+      <img class="itemo" src="imagenes/Tienda/Adidas-Al-Rihla-Pro.avif" alt="Balon - Adidas Al Rihla Pro" style="width:100%;height:100%;">
+      <h4 class="foto-titulo">Adidas Al Rihla Pro</h4>
+      <h5><strong style="color:#B37900;">Precio:</strong> 309.000</h5>
+		<center><button class="button-itemo"><a href="#">Mas Informacion</a></button></center>
+		<div style="padding:10px;"></div>
+    </div>
+<!-- BALON #3-->
+    <div class="doc-quarter">
+      <img class="itemo" src="imagenes/Tienda/Golta-Cosido.png" alt="Balon - Golty Origen" style="width:100%;height:100%;">
+      <h4 class="foto-titulo">Golty Origen</h4>
+      <h5><strong style="color:#B37900;">Precio:</strong> 529.900</h5>
+		<center><button class="button-itemo"><a href="#">Mas Informacion</a></button></center>
+		<div style="padding:10px;"></div>
+    </div>
+<!-- BALON #4-->
+    <div class="doc-quarter">
+      <img class="itemo" src="imagenes/Tienda/kipsta-f900.avif" alt="Balon - Kipsta F900" style="width:100%;height:100%;">
+      <h4 class="foto-titulo">Kipsta F900</h4>
+      <h5><strong style="color:#B37900;">Precio:</strong> 250.000</h5>
+		<center><button class="button-itemo"><a href="#">Mas Informacion</a></button></center>
+		<div style="padding:10px;"></div>
+    </div>
+<!-- BALON #4-TERMINO-->
+  </div>
+</div>
+	
+	
+	
+<!-- !IMAGENES FILA 3! - Camisetas-->
+
+<div id="camisetas" class="doc-main doc-content doc-padding categoria-tienda" style="max-width:1400px;margin-top:40px;">
+	<div><h2 style="text-align:center;">Camisetas</h2></div>
+
+<!-- CAMISETAS-->
+  <div class="doc-row-padding doc-padding-16 doc-center">
+	  
+<!-- CAMISETA #1-->	  
+    <div class="doc-quarter">
+      <img class="itemo" src="imagenes/Tienda/Camisa-Crosswalk.png" alt="Camiseta - Manga larga Crosswalk" style="width:100%;height:300p;">
+      <h4 class="foto-titulo">Camiseta Manga larga Crosswalk</h4>
+      <h5><strong style="color:#B37900;">Precio:</strong> 115.600</h5>
+		<center><button class="button-itemo"><a href="#">Mas Informacion</a></button></center>
+		<div style="padding:10px;"></div>
+    </div>
+	  
+<!-- CAMISETA #2-->
+    <div class="doc-quarter">
+      <img class="itemo" src="imagenes/Tienda/Camisa-Azul.png" alt="Uniforme Azul" style="width:100%;height:100%;">
+      <h4 class="foto-titulo">Uniforme Azul</h4>
+      <h5><strong style="color:#B37900;">Precio:</strong> 110.000</h5>
+		<center><button class="button-itemo"><a href="#">Mas Informacion</a></button></center>
+		<div style="padding:10px;"></div>
+    </div>
+<!-- CAMISETA #3-->
+    <div class="doc-quarter">
+      <img class="itemo" src="imagenes/Tienda/Camisa-UnderArmour.png" alt="Camiseta Manga Corta para Mujer" style="width:100%;height:100%;">
+      <h4 class="foto-titulo">Camiseta Manga Corta para Mujer</h4>
+      <h5><strong style="color:#B37900;">Precio:</strong> 208.400</h5>
+		<center><button class="button-itemo"><a href="#">Mas Informacion</a></button></center>
+		<div style="padding:10px;"></div>
+    </div>
+<!-- CAMISETA #4-->
+    <div class="doc-quarter">
+      <img class="itemo" src="imagenes/Tienda/Camisa-Kappa.png" alt="Camiseta Negra Hombre Kappa " style="width:100%;height:100%;">
+      <h4 class="foto-titulo">Camiseta Negra Hombre Kappa</h4>
+      <h5><strong style="color:#B37900;">Precio:</strong> 89.900</h5>
+		<center><button class="button-itemo"><a href="#">Mas Informacion</a></button></center>
+		<div style="padding:10px;"></div>
+    </div>
+<!-- CAMISETA #4-TERMINO-->
+  </div>
+</div>
+	
+	
+<!-- !IMAGENES FILA 4! - BOLSOS-->
+
+<div id="bolsos" class="doc-main doc-content doc-padding categoria-tienda" style="max-width:1400px;margin-top:40px;">
+	<div><h2 style="text-align:center;">Bolsos</h2></div>
+
+<!-- BOLSOS-->
+  <div class="doc-row-padding doc-padding-16 doc-center">
+	  
+<!-- BOLSO #1-->	  
+    <div class="doc-quarter">
+      <img class="itemo" src="imagenes/Tienda/Bolso-UnderArmour-Negro.png" alt="Under Armour Duffle Negro" style="width:100%;height:300p;">
+      <h4 class="foto-titulo">Under Armour Duffle Negro</h4>
+      <h5><strong style="color:#B37900;">Precio:</strong> 289.950</h5>
+		<center><button class="button-itemo"><a href="#">Mas Informacion</a></button></center>
+		<div style="padding:10px;"></div>
+    </div>
+	  
+<!-- BOLSO #2-->
+    <div class="doc-quarter">
+      <img class="itemo" src="imagenes/Tienda/Bolso-UnderArmour-Rosado.png" alt="Under Armour Duffle Rosado" style="width:100%;height:100%;">
+      <h4 class="foto-titulo">Under Armour Duffle Rosado</h4>
+      <h5><strong style="color:#B37900;">Precio:</strong> 249.950</h5>
+		<center><button class="button-itemo"><a href="#">Mas Informacion</a></button></center>
+		<div style="padding:10px;"></div>
+    </div>
+<!-- BOLSO #3-->
+    <div class="doc-quarter">
+      <img class="itemo" src="imagenes/Tienda/Bolso-Neyrat.png" alt="Tula Deportiva Neyrat" style="width:100%;height:100%;">
+      <h4 class="foto-titulo">Tula Deportiva Neyrat</h4>
+      <h5><strong style="color:#B37900;">Precio:</strong> 99.650</h5>
+		<center><button class="button-itemo"><a href="#">Mas Informacion</a></button></center>
+		<div style="padding:10px;"></div>
+    </div>
+<!-- BOLSO #4-->
+    <div class="doc-quarter">
+      <img class="itemo" src="imagenes/Tienda/Bolso-Wilson.png" alt="Guayera Wilson" style="width:100%;height:100%;">
+      <h4 class="foto-titulo">Guayera Wilson</h4>
+      <h5><strong style="color:#B37900;">Precio:</strong> 47.990</h5>
+		<center><button class="button-itemo"><a href="#">Mas Informacion</a></button></center>
+		<div style="padding:10px;"></div>
+    </div>
+<!-- BOLSO #4-TERMINO-->
+  </div>
+</div>
+</div>
+
+	
+<!-- BOTTOM NAV-->
+<ul style="margin-top:40px; margin-bottom:0px;">
+  <li><a class="nav-live" href="nuestra-tienda.html">Nuestra Tienda On-Line</a></li>
+  <li><a href="servicios.html">Servicios</a></li>
+  <li><a href="contactenos.html">Contáctenos</a></li>
+  <li><a href="solicitud-de-servicio.html">Solicitud de Servicio</a></li>
+  <li><a href="nuestro-cuento.html">Nuestro cuento</a></li>
+	</ul>
+	
+</body>
+</html>
