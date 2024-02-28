@@ -1,0 +1,81 @@
+
+<!--# Entregable-2
+LENGUAJE PROGRAMACIÓN PARA LA WEB - UCN "Tienda on-line de venta de ropa deportiva" - Opción Nuestra tienda On -Line-->
+<!--Erika Ruíz Ocampo 
+José Gómez Acosta 
+Juan Rivera Mora
+Liceth Osorio Osorio -->
+
+
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Servicios y Cotizaciones</title>
+<link href="estilo.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	
+<!-- LOGO! -->
+	<center><img src="imagenes/Deportes-Estrella_Logo.png" style="width: 17%; margin: 30px 0px 15px 0px;"></center>
+	
+<!-- !NAV! -->
+<ul>
+  <li><a href="nuestra-tienda.html">Nuestra Tienda On-Line</a></li>
+  <li><a class="nav-live" href="servicios.html">Servicios</a></li>
+  <li><a href="contactenos.html">Contáctenos</a></li>
+  <li><a href="solicitud-de-servicio.html">Solicitud de Servicio</a></li>
+  <li><a href="nuestro-cuento.html">Nuestro cuento</a></li>
+	</ul>
+	
+	
+<!-- Servicios-->
+
+<div class="doc-main doc-content doc-padding categoria-tienda" style="max-width:1400px;margin-top:40px;">
+	<div><h2 style="text-align:center;">Nuestros Servicios</h2></div>
+
+<!-- BOLSOS-->
+  <div class="doc-row-padding doc-padding-16 doc-center">
+	  
+<!--Personalización de Productos-->
+    <div class="doc-third">
+      <h4 class="foto-titulo">Personalización de Productos</h4>
+      <img class="itemo" src="imagenes/pexels-pixabay-236748.jpg" alt="Personalización de Productos" style="width:100%;height:100%;">
+		<div style="padding:10px;"></div>
+		<center><button class="button-itemo"><a href="#">Mas Informacion</a></button></center>
+		<div style="padding:10px;"></div>
+    </div>
+	  
+<!--Venta de Productos-->
+    <div class="doc-third">
+	  <h4 class="foto-titulo">Venta de Productos</h4>
+      <img class="itemo" src="imagenes/pexels-linkedin-sales-navigator-2182981.jpg" alt="Venta de Productos" style="width:100%;height:100%;">
+		<div style="padding:10px;"></div>
+		<center><button class="button-itemo"><a href="#">Mas Informacion</a></button></center>
+		<div style="padding:10px;"></div>
+    </div>
+	  
+<!--Cotizaciones-->
+    <div class="doc-third">
+      <h4 class="foto-titulo">Cotizaciones</h4>
+      <img class="itemo" src="imagenes/pexels-kindel-media-7688187 .jpg" alt="Cotizaciones" style="width:100%;height:100%;">
+		<div style="padding:10px;"></div>
+		<center><button class="button-itemo"><a href="#">Mas Informacion</a></button></center>
+		<div style="padding:10px;"></div>
+    </div>
+
+  </div>
+</div>
+
+	
+<!-- BOTTOM NAV-->
+<ul style="margin-top:40px; margin-bottom:0px;">
+  <li><a href="nuestra-tienda.html">Nuestra Tienda On-Line</a></li>
+  <li><a class="nav-live" href="servicios.html">Servicios</a></li>
+  <li><a href="contactenos.html">Contáctenos</a></li>
+  <li><a href="solicitud-de-servicio.html">Solicitud de Servicio</a></li>
+  <li><a href="nuestro-cuento.html">Nuestro cuento</a></li>
+	</ul>
+	
+</body>
+</html>
