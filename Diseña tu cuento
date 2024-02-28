@@ -1,5 +1,11 @@
-# Entregable-2
-LENGUAJE PROGRAMACIÓN PARA LA WEB - UCN "Tienda on-line de venta de ropa deportiva" - Opción Diseña tu cuento
+<!--# Entregable-2
+LENGUAJE PROGRAMACIÓN PARA LA WEB - UCN "Tienda on-line de venta de ropa deportiva" - Opción Diseña tu cuento-->
+<!--Erika Ruíz Ocampo 
+José Gómez Acosta 
+Juan Rivera Mora
+Liceth Osorio Osorio -->
+
+
 document.addEventListener('DOMContentLoaded', () => {
 
     const form = document.getElementById('form');
